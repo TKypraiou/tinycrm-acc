@@ -1,0 +1,8 @@
+C:\Users\Stefanos_laptop\Devel\TinyCrm-Acc\TinyCrm.Core\bin\Debug\netstandard2.0\TinyCrm.Core.deps.json
+C:\Users\Stefanos_laptop\Devel\TinyCrm-Acc\TinyCrm.Core\bin\Debug\netstandard2.0\TinyCrm.Core.dll
+C:\Users\Stefanos_laptop\Devel\TinyCrm-Acc\TinyCrm.Core\bin\Debug\netstandard2.0\TinyCrm.Core.pdb
+C:\Users\Stefanos_laptop\Devel\TinyCrm-Acc\TinyCrm.Core\obj\Debug\netstandard2.0\TinyCrm.Core.csprojAssemblyReference.cache
+C:\Users\Stefanos_laptop\Devel\TinyCrm-Acc\TinyCrm.Core\obj\Debug\netstandard2.0\TinyCrm.Core.AssemblyInfoInputs.cache
+C:\Users\Stefanos_laptop\Devel\TinyCrm-Acc\TinyCrm.Core\obj\Debug\netstandard2.0\TinyCrm.Core.AssemblyInfo.cs
+C:\Users\Stefanos_laptop\Devel\TinyCrm-Acc\TinyCrm.Core\obj\Debug\netstandard2.0\TinyCrm.Core.dll
+C:\Users\Stefanos_laptop\Devel\TinyCrm-Acc\TinyCrm.Core\obj\Debug\netstandard2.0\TinyCrm.Core.pdb
